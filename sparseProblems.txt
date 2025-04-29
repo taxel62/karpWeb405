@@ -1,0 +1,46 @@
+Sparse-3SAT -> Sparse-0/1 IP
+1
+Sparse-3SAT -> Sparse-3COLOR
+1
+Sparse-3SAT -> Sparse-3DM
+Exponential Length Path
+Sparse-3SAT -> Sparse-3SAT
+1
+Sparse-3SAT -> Sparse-CLIQUE
+Exponential Length Path
+Sparse-3SAT -> Sparse-CLIQUE COVER
+Exponential Length Path
+Sparse-3SAT -> Sparse-COLOR
+1
+Sparse-3SAT -> Sparse-DIR HAMPATH
+Exponential Length Path
+Sparse-3SAT -> Sparse-EXACT COVER
+1
+Sparse-3SAT -> Sparse-FEEDBACK ARC
+1
+Sparse-3SAT -> Sparse-FEEDBACK NODE
+1
+Sparse-3SAT -> Sparse-HITTING SET
+1
+Sparse-3SAT -> Sparse-JOB SEQUENCING
+Exponential Length Path
+Sparse-3SAT -> Sparse-MAX CUT
+Exponential Length Path
+Sparse-3SAT -> Sparse-PARTITION
+Exponential Length Path
+Sparse-3SAT -> Sparse-SAT
+1
+Sparse-3SAT -> Sparse-SET COVER
+1
+Sparse-3SAT -> Sparse-SET PACKING
+Exponential Length Path
+Sparse-3SAT -> Sparse-STEINER TREE
+1
+Sparse-3SAT -> Sparse-SUBSET SUM
+Exponential Length Path
+Sparse-3SAT -> Sparse-UNDIR HAMPATH
+Exponential Length Path
+Sparse-3SAT -> Sparse-VERTEX COVER
+1
+Sparse-3SAT -> Sparse-X3SAT
+1
